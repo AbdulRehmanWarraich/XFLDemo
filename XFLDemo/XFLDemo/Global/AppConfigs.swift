@@ -20,6 +20,10 @@ class AppConfigs {
         return 4
     }
     
+    class var matchDuration: TimeInterval {
+        return 60
+    }
+    
     class var commonCornerRadiusValue: CGFloat {
         return 4
     }

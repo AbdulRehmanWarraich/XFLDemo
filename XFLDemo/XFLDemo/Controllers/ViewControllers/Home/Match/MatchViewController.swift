@@ -121,7 +121,7 @@ class MatchViewController: BaseViewController {
     //MARK: - Functions
     
     private func initiateTimmer() {
-        self.progressView.startTimer(to: 5) { [weak self] state in
+        self.progressView.startTimer(to: AppConfigs.matchDuration) { [weak self] state in
             
             switch state {
             
