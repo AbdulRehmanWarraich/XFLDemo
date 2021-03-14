@@ -30,7 +30,7 @@ XFL (XGrid Football League) is an Admin application for the XGrid to maintain th
 - UICircularProgressRing
 
 ## Demo
-<img src="https://gph.is/g/ZPGNk5B" width="250" height="500" />
+<img src="https://media.giphy.com/media/kKTKCoK8ttbPAN5gh6/giphy.gif" width="250" height="500" />
 
 [swift-image]:https://img.shields.io/badge/swift-5.0-orange.svg
 [swift-url]: https://swift.org/
