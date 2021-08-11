@@ -4,10 +4,10 @@
 ![Languages](https://img.shields.io/badge/Language-Swift-orange.svg)
 ![Database](https://img.shields.io/badge/Language-Firebase-orange.svg) 
 
-XFL (XGrid Football League) is an Admin application for the XGrid to maintain their league summery and also record the score of each match with the team members. For authentication, I am using firebase realtime database. To login into the application, you can use the following credentials.
+XFL is an Admin application for the XGrid to maintain their league summery and also record the score of each match with the team members. For authentication, I am using firebase realtime database. To login into the application, you can use the following credentials.
 
 
-    email:    admin@xgrid.com
+    email:    demo@xfl.com
     Password: admin123
     
 ## Features
